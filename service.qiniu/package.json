@@ -1,0 +1,20 @@
+{
+  "name": "hg.qiniu.service",
+  "version": "1.0.0",
+  "description": "qiniu service to nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiniu",
+    "service"
+  ],
+  "author": "huange",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "moment": "^2.12.0",
+    "qiniu": "^6.1.9"
+  }
+}
